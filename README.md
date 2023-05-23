@@ -1,6 +1,6 @@
-👋 Hi, I’m @jpgerber1986 - Properly known as Jordan P Gerber (Born 1986)<br/>
+👋 Hi, I’m Jordan (Born 1986)<br/>
 👀 I’m interested in programming, but mostly my 💞️family💞️. Nothing is more important to me than my family.<br/>
-🌱 I’m currently re-learning: 
+🌱 I’m currently (re/continued)learning: 
 - HTML
 - CSS
 - PHP (My favorite so far)
